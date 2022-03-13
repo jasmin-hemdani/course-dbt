@@ -60,3 +60,4 @@ round( avg(unique_sessions)::numeric, 2) as sessions_per_hour
 from sessions_started_per_hour
 
 answer: 16.33
+ 
